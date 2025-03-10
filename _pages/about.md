@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Pau's Academic Website
+This is Pau's Academic Website!
